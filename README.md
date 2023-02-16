@@ -9,10 +9,10 @@
 Student & Developer
 -------------------
 
-Hi there, my name is Devon. I’ve been learning how to code for a little while now, I’m starting with Web Development and planning to build myself up from there, currently learning JavaScript.
+Hi there, my name is Devon. I’ve been learning how to code for a little while now, I’m starting with Web Development and planning to build myself up from there, I’m following The Odin Project Curriculum and I’m currently learning Ruby.
 
 *   🌍  I'm based in The Netherlands
-*   🧠  I'm currently learning JavaScript.
+*   🧠  I'm currently learning Rails.
  
 ## Tools
 <p align="left">
