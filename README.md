@@ -6,7 +6,7 @@
 
 -------------------
 
-Student & Developer
+About
 -------------------
 
 Hi there, my name is Devon. I’ve been learning how to code for around 2 months.
